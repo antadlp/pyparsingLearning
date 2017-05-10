@@ -1,5 +1,5 @@
 !git add -A .
-!git commit -m "doing 'hello world on steroids'"
+!git commit -m "Finished 'hello world on steroids'"
 !git add -A .
 !git push origin master
 
